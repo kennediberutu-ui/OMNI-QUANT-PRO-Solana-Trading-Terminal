@@ -14,3 +14,5 @@ Quick Installation
 Get Full Release Package
 Download the complete source code, automated installer, and documentation:
 👉 Get OMNI-QUANT PRO v2.0 on Gumroad [https://berutu43.gumroad.com/l/omni-quant-pro](https://berutu43.gumroad.com/l/omni-quant-pro) 
+- 🔥 **Get Master Bundle — Solana DEX + Binance Futures ($59 — Save $19):** https://berutu43.gumroad.com/l/quant-master-bundle
+- 
